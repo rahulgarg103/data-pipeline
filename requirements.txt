@@ -1,0 +1,10 @@
+google-api-python-client
+google-auth 
+google-auth-oauthlib 
+google-auth-httplib2
+fastapi
+uvicorn
+requests
+pytz
+python-dotenv
+snowflake-connector-python
